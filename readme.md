@@ -21,7 +21,7 @@ It uses **PennyLane** for the quantum backend and **PyTorch** for training the c
 | Quantum Backend | PennyLane              |
 | Classical NN    | PyTorch                |
 | Data/Plotting   | NumPy, Matplotlib      |
-| Execution       | Python 3.9+, Jupyter   |
+| Execution       | Python 3.9+   |
 
 ---
 
